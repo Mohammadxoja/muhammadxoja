@@ -1,0 +1,372 @@
+1. Elektromagnit to'lqinlar qanday sharoitda nurlanadi?
+
+A) zaryad tebranganda.
+
+2. l-zaryad tekis va to'g'ri chiziqli harakatlanadi;
+2-zaryad toʻgʻri chiziqli tezlanuvchan harakatlanadi;
+3-zaryad garmonik tebranishlar bajaradi; 4-zaryad
+aylana boʻylab tekis harakatlanadi. Bu zaryadlarning
+qaysilari elektromagnit toʻlqin nurlaydi?
+
+C) 2, 3 va 4.
+ 
+
+3. Elektromagnit to'lqinlar toʻlqinning qaysi turiga
+kiradi?
+
+C) ko'ndalang 
+
+4. Manbadan tarqalayotgan elektromagnit toʻlqinning
+
+B)ÉLBIR.
+
+5. Vakuumdagi Ēva B elektromagnit toʻlqin vektorlari x va y o'qlar bo'ylab yo'nalgan bo'lsa, to'lqinning tarqalish yo'nalishi qanday?
+
+z oqining musbat yonaliwida 
+
+6.Elektromagnit to'lqinlarning tarqalish yo'nalishi
+qanday aniqlanadi?
+
+A burg'uning dastasi E dan B ga tomon aylantirilganda
+
+7.Vakuumda elektromagnit to'lqinlarning tarqalish
+
+C) muhitda tarqalish tezligidan katta bo'ladi.
+
+8. Elektromagnit to'lqinning 1- va 4- maksimumlari
+orasidagi masofa 30 m. Shu to'lqinning uzunligi
+qanday (m)?
+
+C) 10
+
+9. Elektromagnit to'lqinning chastotasi v, tezligi v
+va to'lqin uzunligi orasidagi bog'lanishni toping,
+
+C) u=v.
+
+10. Chastotasi 8-1014 Hz va to'lqin uzunligi 200 nm
+boʻlgan elektromagnit toʻlqinning tarqalish tezligi
+qanday (m/s)?
+
+ B) 1,6-10^8
+
+11. Kosmik kemada o'rnatilgan radiouzatgich 20 MHz
+chastotada ishlaydi. U nurlaydigan radioto'lqinning
+uzunligi qanday (m)?
+
+B) 15
+
+12. Kosmik kemadan tarqalayotgan, chastotasi 10
+MHz bo'lgan elektromagnit to'lqinning uzunligi
+ganday (m)?
+
+D) 30. 
+
+13. Vakuumda elektromagnit toʻlqin chastotasi
+3-1013 Hz bo'lsa, to'lqin uzunligi qanday (m)?
+
+E) 10^-5 
+
+14. Chastotasi 8.10W Hx va tarqalish tezligi 16-10
+m/s bo'lgan elektromagnit to'lqinning uzunligini
+aniqlang nm).
+
+D) 200 
+
+15. Uyali telefon 100 MHz chastotada ishlaydi.
+Uning ishchi to'lqin uzunligi qanday (m)?
+
+B) 3 
+
+16. Elektromagnit to'lqin chastotasi 15. MHz. Shu
+to'lqinning uzunligi qanday (m)?
+
+B) 20.
+
+17 Chastotasi 390 va 750 THz bo'lgan nurlarning
+to'lqin uzunliklari nisbati Mazni toping
+
+B) 1.92.
+
+18. Elektromagnit toʻlqinning tebranish davri 1,5-10-12
+s bo'lsa, uning vakuumdagi to'lqin uzunligi qanday?
+
+B) 0,45 mm.
+
+19. Grafikda vakuumda tarqalayotgan yorug'lik to'lqinidagi elektr maydon kuchlanganligining vaqt bo'yicha
+o'zgarishi berilgan. Grafikdan foydalanib, to'lqin uzunligini aniqlang (m)
+
+D) 6-10-7
+
+20. Antenna 6 MHz chastotali elektromagnit to'lqin
+nurlamoqda. To'lqin tarqalish yo'nalishidagi 100 km
+masofada nechta to'lqin joylashadi?
+
+E) 2000.
+
+
+21. Konturda 6 MHz chastotali radioto'lqin hosil bo'l-
+moqda. To'lqin tarqalish yo'nalishidagi 100 km ma-
+sofada nechta to'lqin uzunligi joylashadi?
+
+B) 2000. 
+
+22. Vakuumda 1 m kesmaga monoxromatik nurlanish
+chastotasi 6-1014 Hz bo'lgan nechta to'lqin uzunligi
+joylashadi?
+
+B) 2*10^6. 
+
+23. Vakuumda tarqalayotgan, to'lqin uzunligi 30 cm
+bo'lgan elektromagnit to'lqinning tebranish chasto-
+tasi necha gers?
+
+A) 1-109.
+
+24. Vakuumda yorug'likning toʻlqin uzunligi X=6-10-7
+m. Uning tebranishlar chastotasi necha gers?
+
+D) 5-1014
+
+25. To'lqin uzunligi 10 cm bo'lgan radioto'lqinning
+chastotasini aniqlang (Hz).
+
+E) 3-109 
+
+
+26 Vakuumdagi to'lqin uzunligi 26-10-7 m bo'lgan
+elektromagnit tonning tebranislilar chastotasi
+noch gers?
+
+B) 5*10^4 
+
+27. Ultra yuqori chastotall nurlanishlar generatori
+to'lqin uzunligi 9 m bo'lgan elektromagnit to'lqin
+tarqatmaqda Generator qanday (MHz) chastotada
+ishlaydi
+
+C) 150
+
+28. Olull ya binaisha yorug'likning to'lqin uzunligt
+28.10- va 24-1027 m bo'lsa, ularning chas-
+totalar nisbati / qanday?
+
+B) 0,5
+
+29. Vakuumda 0,5 m kesmagu monoxromatik nurla
+nish to'lqinidan 2.106 ta joylashtirish uchun bu nur
+larning chastotasi necha gers bo'lishi kerak?
+
+A) 12*10^14
+
+30 Agar vakuumda tarqalayotgan elektromagnit
+to'lqin tarkibidagi magnit maydon induksiyasining
+tebranish chastotasi 107 Hz bo'lsa, elektr maydon
+kuchlanganligining tebranish davri qanday (ns)
+
+B) 100
+
+31. Elektromagnit to'lqin tarkibidagi elektr maydon
+kuchlanganligining tebranish chastotasi 106 Hz
+bo'lsa, undagi magnit maydon induksiyasining teb-
+ränish davri qanday (us) bo'ladi?
+
+E) 1.
+
+32. Radiopriyomnik konturi 50 m to'lqin uzunlikka
+sozlangan, konturni 25 m to'lqin uzunlikka sozlash
+uchun g'altaki induktivligini qanday o'zgartirish kerak?
+
+
+C) 4 marta kamaytirish
+
+33. Tebranishlar konturidagi g'altakning induktivligi
+200 dan 50 uH gacha kamaytirilganda tarqatilayot-
+gan to'lqin uzunligi qanday o'zgaradi?
+
+D) 2 marta kamayadi. 
+
+34. Radiouzatkich konturining sig'imi 240 dan 60 pF
+gacha kamaydi. Tarqalayotgan toʻlqinning uzunligi
+qanday o'zgaradi? Induktivlik bir xil.
+
+E) 2 marta kamayadi.
+
+35. Tebranishlar konturidagi sig'im 20 marta orttiril-
+sa, induktivlik esa shuncha marta kamaytirilsa,
+
+ozgarmaydi 
+
+
+36. Qabul qiluvchi tebranishlar konturdagi g'altak induktivilgi va 
+kondensator sigimi 4 martadan kamaytiriladi. Bundan radiopriyopnik sozlangan 
+tolqinning uzunligi qanday ozgaradi? 
+
+B 4 marta kamayadi 
+
+37.Radiopriyomnikning konturi 200 m uzunlikdagi to'lqinga sozlangan.Uni 400 m uzunlikdagi to'lqinga 
+sozlash uchun kontur kondensatori sigimini qanday ozgartirish kerak? 
+
+D 4 marta orttirish 
+
+38. Radiopriyomnikning tebranish konturi 2000 m tolqin uzunlikka sozlangan. 
+Konturni 1000 m to'lqin uzunlikka sozlash uchun undagi kondensator sigimini qanday o'zgartirish kerak? 
+
+C 4 marta kamaytirish
+
+39. To'lqin uzunligi 90 m bolgan radiotolqinlarni qabul qilayotgan tebranishlar 
+konturidagi kondensator sigimi 9 marta orttrilsa, u qanday to'lqin uzunligiga moslangan? 
+
+A 270 
+
+40. Tebranish konturi 200 pF sigimli kondensator va induktiviligi 2*10^-4 H 
+bo'lgan g'altakdan iborat. Shu kontur qanday to'lqin uzunligiga moslangan ? 
+
+D 377 
+
+41. Radiopriyomnikning tebranishlar konturdagi kondensator sig'imi 1000 pF. 
+G'altak induktiviligi 1 mH bo'lsa, u qanday to'lqin uzunlikka sozlangan bo'ladi? 
+
+C 1884 
+
+42 Tebranish konturi induktiviligi L=0.1 mH bo'lgan g'altakdagi va sig'imi 1000 dan 10000 pF 
+gacha o'zgaruvchan sig'imli kondensatordan iborat. Shu kontur sozlanishi mumkin bo'lgan to'lqin 
+uzunlikkalari oralig'i qanday? 
+
+E 600+1885 
+
+43.Radiopriyomnikning 300 m to'lqin uzunligiga mos keladigan tebranishlar konturning 
+induktiviligi 2.5 mH bo'lsa, konturdagi kondensator sig'imi qanday? 
+
+B 10
+
+44. Agar to'lqin uzunligi 1884 m bo'lgan radioto'lqinga moslangan tebranish konturidagi
+induktivlik 2 mH bo'lsa, undagi kondensator sig'imi qanday? 
+
+A 500 
+
+45. 1884 m to'lqin uzunligiga moslangan tebranishlar konturdagi kondensator sig'imi
+500 pF bo'lsa, undagi g'altakning induktiviligi qanday?
+
+A 2 
+
+46. Nurlantirayotgan elektormagnit to'lqinlari uzunligi 1.2*10^8 m. Radio antennasidagi tokning o'zgarishi 
+qonuni qanday? 
+
+A i = lsin15.7t 
+
+47. Agar radio priyomnikning tebranish konturidagi tok kuchning o'zgarishi qonuni i=10^6sin2*10^6pi*t 
+ko'rinishida bo'lsa, u qanday to'lqin uzunlikka moslangan? 
+
+D 300 
+
+48. Elektromagnit to'lqinlar qabul qiluvchi tebranishlar konturdagi tok kuchining o'zgarish qonuni 
+i=10^-3cos5*10^5pi*t korinishiga ega. Qabul qilinayotgan to'lqinning uzunligini aniqlang. 
+
+D 1200 
+
+49. Radiotarqatgich antennasidagi tok kuchi I=0.3sin3,14*10^6 qonuniyati bo'yicha o'zgaradi.
+Nurlanuvchi elektromagnit to'lqin uzunligini toping.
+
+A 6*10^2 
+
+50. Agar radiopriyomnikning konturning kondensatoridagi zaryad q=10^-9cos4*10^6pi*t qonun 
+bo'yicha o'zgarayotgan bo'lsa, u qanday to'lqin uzunligiga moslangan bo'ladi? 
+
+C 1200 
+
+
+
+
+1.Zanjirda ketma-ket ulangan 9 Ω aktiv qarshilik va 12 Ω induktiv qarshilikdan tuzilgan.
+Tok bilan kuchlanish tebranishlari orasidagi faza siljishining kosinusi qanday?
+
+0.6
+
+2. Zanjirda ketma-ket ulangan 18 Ω aktiv qarshilik va 24 Ω sig'im qarshilikdan tuzilgan. Tok
+bilan kuchlanish tebranishlari orasidagi faza siljishining kosinusini toping?
+
+0.6
+
+
+3. To'lqin uzunligi 90 m bo'lgan radioto'lqinlarni qabul qilayotgan tebranishlar konturidagi
+kondensator sig imi 9 marta orttirilsa, u qanday to'lqin uzunligiga moslashadi (m)? 
+
+270
+
+4. Tebranish konturi 200 pF sig'imli kondensator va induktivligi 2∙10-4 Н bo'lgan g'altakdan
+iborat. Shu kontur qanday to'lqin uzunligiga moslangan (m)?
+
+1,256*10^-6 yoki 377 
+
+5. Radiopriyomnikdagi 300 m to'lqin uzunligiga mos keladigan tebranishlar konturining
+induktivligi 2,5 mH bo'lsa, konturdagi kondensator sig'imi qanday (pF)? 
+
+B 10 yoki 0.1 
+
+6. Sinuslar qonuniga bo'ysunuvchi tok kuchlanishining oniy qiymati 30° fazada 120 V ga
+teng. Kuchlanishning effektiv qiymati necha volt? 
+
+170
+
+7. Tebranish boshlangandan qancha vaqt o'tgach, o'zgaruvchan tokning oniy qiymati uning
+ta’sir etuvchi qiymatiga teng bo'ladi? T - davr. 
+
+t=T/8
+
+8. Chastotasi 400 Hz bo'lgan o'zgaruvchan tok zanjiriga sig'imlari C1=200 pF va C2=500 pF
+bo'lgan ikki kondensator ketma-ket ulangan. Kondensatorlarning elektr qarshiligini baholang
+(M ).
+
+9. Sig'imi 100 µF bo'lgan kondensator, induktivligi 200 mH bo'lgan g'altak va qarshiligi 60
+Ω bo'lgan reostat ketma-ket ulangan zanjirdagi tokning o'zgarish qonuni
+ko'rinishga ega. Zanjirning to'la qarshiligi necha om?
+
+116,61~117 yoki 100
+
+10. Sig'imi 2 F bo'lgan kondensator chastotasi 50 Hz bo'lgan o'zgaruvcnan tok zanjiriga
+ulangan. Agar kuchlanishning samarador qiymati 220 V bo‘lsa, zanjirdan o'tayotgan tok
+kuchining samarador qiymati qanday (А)? 
+
+0,195388 yoki 0,137
+
+11.O‘zgaruvchan tok zanjiriga ulangan g‘altak uchlariga qo‘yilgan kuchlanish amplitudasi 15
+7 V, tok kuchining amplitudasi 5 A, tokning chastotasi 50 Hz bo‘lsa, uning induktivligi nimaga teng? 
+
+0,10
+
+12. Radiouzatkich konturining sig'imi 240 dan 60 pF gacha kamaydi. Tarqalayotgan
+to'lqinning uzunligi qanday o'zgaradi? Induktivlik bir xil.
+
+2 marta kamayadi
+
+13. Agar radiopriyomnik tebranish konturidagi tok kuchining o'zgarish qonuni i=10-
+6sin2∙106πt (A) ko'rinishda bo’lsa, u qanday to'lqin uzunlikka moslangan (m)? 
+
+14. Radiouzatkich konturining sig'imi 240 dan 60 pF gacha kamaydi. Tarqalayotgan
+to'lqinning uzunligi qanday o'zgaradi? Induktivlik bir xil.
+
+2 marta kamayadi
+
+15. Chastotasi 400 Hz bo‘lgan o‘zgaruvchan tok tarmog‘iga 2 sig‘imli kondensator
+ulangan. Zanjirda kuchlanish rezonansi hosil bo‘lishu uchun zanjirga ulanish kerak
+bo‘lgan g‘altak induktivligini toping.
+
+16. O'zgaruvchan tok zanjiriga induktiv g'altak va kondensator ketma-ket ulangan. Induktiv
+g'altakka ulangan voltmetr 400 V ni, kondensatorga ulangan voltmetr 180 V ni ko'rsatib
+turibdi. Tarmoqdagi umumiy kuchlanish qanday (V)?
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
